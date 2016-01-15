@@ -1,6 +1,6 @@
 ## Getting and Cleaning Data Project
 
-Heather Wade
+Krishna Kumar
 
 Repo for the submission of the course project for the Johns Hopkins Getting and Cleaning Data course.
 
