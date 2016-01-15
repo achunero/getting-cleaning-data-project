@@ -15,7 +15,7 @@ Once you have obtained and unzipped the source files, you will need to make one 
 Note that on line 26 of run_analysis.R, you will set the path of the working directory to relect the location of the source files
 in your own directory.
 
-### Project Summary
+### Project Summary.
 The following is a summary description of the project instructions
 
 You should create one R script called run_analysis.R that does the following. 
